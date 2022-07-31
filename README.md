@@ -31,6 +31,6 @@ npm run start
 
 ## Screenshots
 
-![image_1](../01-birthday-reminder/public/images/screenshot-oziv-birthday-reminder.netlify.app-2022.07.31-21_27_44.png)
+![image_1](https://user-images.githubusercontent.com/89987476/182040844-ecc049c7-c320-47a1-8da5-789abc213ac4.png)
 
-![image_2](../01-birthday-reminder/public/images/screenshot-oziv-birthday-reminder.netlify.app-2022.07.31-21_33_20.png)
+![image_2](https://user-images.githubusercontent.com/89987476/182040846-817e0aed-94e9-49fe-85ef-a602e5d8d9e8.png)
