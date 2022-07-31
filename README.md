@@ -13,7 +13,9 @@
 ## Technologies
 
 - Frontend
-  1. ReactJS
+  - ReactJS
+- Database
+  - Mock data JS file - [Mockaroo](https://www.mockaroo.com/)
 
 ## Usage
 
